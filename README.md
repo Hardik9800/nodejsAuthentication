@@ -9,4 +9,4 @@ Features:-
 - Reset password 
 - Google login/signup (Social authentication)
 
-- ![Screenshot (353)](https://github.com/Hardik9800/nodejsAuthentication/assets/51282682/624bf61e-1662-467f-ba6e-8b17bfef75f6)
+![Screenshot (354)](https://github.com/Hardik9800/nodejsAuthentication/assets/51282682/7905af1e-7a0e-4a0d-a72c-b1e639a28bd5)

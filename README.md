@@ -3,7 +3,7 @@ A complete authentication system that can be used as a starter code for creating
 
 Features:-
 
--Sign up with email
+- Sign up with email
 - Sign in 
 - Sign out
 - Reset password 
